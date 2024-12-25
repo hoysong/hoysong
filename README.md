@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats-ruddy-chi-18.vercel.app/api?username=hoysong&show_icons=true&theme=radical include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats-ruddy-chi-18.vercel.app/api?username=hoysong&show_icons=true&theme=radical/include_all_commits=true)
 + [get_next_line 테스터](https://github.com/hoysong/hoy_gnl_tester.git)
 + [vim 플러그인 한방설치](https://github.com/hoysong/hoy_gnl_tester.git)
