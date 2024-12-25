@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://minishell-jade.vercel.app/api?username=hoysong&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://minishell-git-master-hoysongs-projects.vercel.app/api?username=hoysong&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats-sand-zeta-98.vercel.app/api?username=hoysong&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-ruddy-chi-18.vercel.app/api?username=hoysong&show_icons=true&theme=radical)
