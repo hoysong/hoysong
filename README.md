@@ -1,28 +1,20 @@
-## 👋
+## Core Skills
 
-<!--
-**hoysong/hoysong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Languages:** C, C++98, C++17
+- **System:** Linux, Process, Thread, Mutex, Pipe, Signal, File Descriptor
+- **Network:** TCP/IP, Socket, `epoll`, QTcpSocket
+- **Tools:** Git, Make, CMake, GDB, Valgrind
+- **Other:** Qt Widgets
 
-Here are some ideas to get you started:
+## Selected Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://mygithubstats-ashy.vercel.app/api?username=hoysong&show_icons=true&theme=radical/include_all_commits=true)
+| Project | Description | Tech |
+| --- | --- | --- |
+| [ft_irc](https://github.com/hoysong/ft_irc) | 여러 클라이언트를 단일 `epoll` 이벤트 루프로 처리하는 IRC 서버 | C++98, Linux, TCP/IP, `epoll` |
+| [GUI Client for ft_irc](https://github.com/hoysong/GUI-Client-for-ft_irc) | Qt Signal/Slot과 QTcpSocket으로 구현한 비동기 IRC 클라이언트 | C++17, Qt Widgets, QTcpSocket |
+| [Game of Life](https://github.com/hoysong/game_of_life) | 렌더링 영역을 분할하여 멀티스레딩한 Conway's Game of Life 시뮬레이터 | C, pthread, MiniLibX |
+| [Minishell](https://github.com/hoysong/minishell) | 따옴표·환경변수·리다이렉션·파이프를 처리하는 Bash 동작 구현 | C, Linux, Process, Pipe |
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoysong&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/hoysong"
-  width="600"
-  height="300"
-/>
-</a>
+## Portfolio
 
-+ [42 testers](https://github.com/hoysong/hoy_gnl_tester.git)
-+ [vim 플러그인 한방설치 쉘 스크립트](https://github.com/hoysong/songbird_public.git)
+- [hoysong.github.io](https://hoysong.github.io/)
