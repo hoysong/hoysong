@@ -4,7 +4,7 @@
 - **System:** Linux, Process, Thread, Mutex, Pipe, Signal, File Descriptor
 - **Network:** TCP/IP, Socket, `epoll`, QTcpSocket
 - **Tools:** Git, Make, CMake, GDB, Valgrind
-- **Other:** Qt Widgets, Arduino, SOLIDWORKS
+- **Other:** Qt Widgets
 
 ## Selected Projects
 
